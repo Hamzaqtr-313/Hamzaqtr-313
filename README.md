@@ -6,17 +6,19 @@
 
 - 🔭 My working on [Quranic-nasheed](https://quranic-nasheed-website.web.app/)
 
-- 🌱 I’m currently learning **React e.t.c**
+- 🌱 I’m currently learning **Full-Stack Dev**
 
-- 👯 I have made a bolgging website [Blog website](https://hamzaqtr-313.github.io/Hamza/)
+- 👯 I have made a blogging website [Blog website](https://hamzaqtr-313.github.io/Hamza/)
 
-- 👨‍💻 My Portfolio are available at [https://portfolio-hamza-313.web.app/](https://portfolio-hamza-313.web.app/)
+- 👨‍💻 My Portfolio is available at [https://portfolio-hamza-313.web.app/](https://portfolio-hamza-313.web.app/)
 
-- 💬 Ask me about **Firebase,Azure,AWS e.t.c**
+- 💬 Ask me about **Cloud , DevOps, Programming etc**
 
 - 📫 How to reach me **hamzaqtr84@gmail.com**
 
 - ⚡ Fun fact **I am sleeping😁**
+
+- ⚡ I am **GitHub Certified**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
