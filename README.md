@@ -1,24 +1,19 @@
-
 <h1 align="center">Hey, I'm Hamza Sajid</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer based in Qatar, actively contributing to the local tech ecosystem.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 My working on [Quranic-nasheed](https://quranic-nasheed-website.web.app/)
+- 🌱 Currently learning **Tech Ecosystem**
 
-- 🌱 I’m currently learning **Full-Stack Dev**
+- 💬 Ask me about **Cloud, DevOps, Programming, or anything tech-related**
 
-- 👯 I have made a blogging website [Blog website](https://hamzaqtr-313.github.io/Hamza/)
+- 📫 How to reach me: **hamzaqtr84@gmail.com**
 
-- 👨‍💻 My Portfolio is available at [https://portfolio-hamza-313.web.app/](https://portfolio-hamza-313.web.app/)
+- 🏅 I am **GitHub Certified**
 
-- 💬 Ask me about **Cloud , DevOps, Programming etc**
+- 💼 Working as an **Organizer at Azure Qatar Community**, empowering the local tech scene through Microsoft technologies
 
-- 📫 How to reach me **hamzaqtr84@gmail.com**
-
-- ⚡ Fun fact **I am sleeping😁**
-
-- ⚡ I am **GitHub Certified**
+- ⚡ Fun fact: **I am probably sleeping 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
