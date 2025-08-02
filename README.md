@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact: **I am probably sleeping 😁**
 
+- Got a question or just want to connect? All my socials are hanging out on the **left** — feel free to drop a message anytime!
+
 ---
 
 <h3 align="left">Connect with me:</h3>
