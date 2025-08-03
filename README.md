@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I am probably sleeping 😁**
 
-- Got a question or just want to connect? All my socials are hanging out on the **left** — feel free to drop a message anytime!
+- Got a question or just want to connect? All my socials are hanging out — feel free to drop a message anytime!
 
 ---
 
